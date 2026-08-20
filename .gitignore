@@ -1,0 +1,8 @@
+# 构建产物(APK/EXE 打包工程,不入库)
+voice-monitor-app/
+README-伪声扩展脚本.md
+
+# 依赖与构建产物
+node_modules/
+__pycache__/
+*.pyc
